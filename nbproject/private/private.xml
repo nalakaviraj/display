@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/signage/app/Http/Controllers/PriceController.php</file>
+            <file>file:/C:/xampp/htdocs/signage/resources/views/admin/topprice/addprice.blade.php</file>
+            <file>file:/C:/xampp/htdocs/signage/app/Http/Controllers/RssController.php</file>
+            <file>file:/C:/xampp/htdocs/signage/resources/views/admin/topprice/add.blade.php</file>
+            <file>file:/C:/xampp/htdocs/signage/resources/views/signage/newsfeed/index.blade.php</file>
+            <file>file:/C:/xampp/htdocs/signage/routes/web.php</file>
+            <file>file:/C:/xampp/htdocs/signage/app/Rss.php</file>
+            <file>file:/C:/xampp/htdocs/signage/app/Http/Controllers/SignageController.php</file>
+            <file>file:/C:/xampp/htdocs/signage/app/Http/Controllers/EmployeeController.php</file>
+        </group>
+    </open-files>
+</project-private>

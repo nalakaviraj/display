@@ -1,0 +1,34 @@
+.portfolio-item {
+
+	width: inherit;
+}
+
+.link-hightliter{
+	border-bottom: solid gray
+}
+
+.thumbnail-bg{
+	background: #99ff99;
+}
+
+.header_image{
+	margin-top: 30px;
+  margin-left: 16px;
+}
+
+
+.hyl_logo{
+
+    width: 180px;
+    margin-top: -690px;
+    /* position: absolute; */
+    margin-left: 50px;
+
+}
+
+
+.dfdf{
+
+	margin-top: -127px;
+    margin-left: 245px;
+}
